@@ -161,12 +161,12 @@ exports.book_create_post = [
 
 // Display book delete form on GET.
 exports.book_delete_get = function(req, res) {
-    res.send('NOT IMPLEMENTED: Book delete GET');
+    res.send("Thanks for enjoying my application! This page was an 'extra challenge', and so did not implement it as it would have doubled the time for this already long tutorial.");
 };
 
 // Handle book delete on POST.
 exports.book_delete_post = function(req, res) {
-    res.send('NOT IMPLEMENTED: Book delete POST');
+    res.send("Thanks for enjoying my application! This page was an 'extra challenge', and so did not implement it as it would have doubled the time for this already long tutorial.");
 };
 
 // Display book update form on GET.

@@ -91,20 +91,20 @@ exports.bookinstance_create_post = [
 
 // Display BookInstance delete form on GET.
 exports.bookinstance_delete_get = function(req, res) {
-    res.send('NOT IMPLEMENTED: BookInstance delete GET');
+    res.send("Thanks for enjoying my application! This page was an 'extra challenge', and so did not implement it as it would have doubled the time for this already long tutorial.");
 };
 
 // Handle BookInstance delete on POST.
 exports.bookinstance_delete_post = function(req, res) {
-    res.send('NOT IMPLEMENTED: BookInstance delete POST');
+    res.send("Thanks for enjoying my application! This page was an 'extra challenge', and so did not implement it as it would have doubled the time for this already long tutorial.");
 };
 
 // Display BookInstance update form on GET.
 exports.bookinstance_update_get = function(req, res) {
-    res.send('NOT IMPLEMENTED: BookInstance update GET');
+    res.send("Thanks for enjoying my application! This page was an 'extra challenge', and so did not implement it as it would have doubled the time for this already long tutorial.");
 };
 
 // Handle bookinstance update on POST.
 exports.bookinstance_update_post = function(req, res) {
-    res.send('NOT IMPLEMENTED: BookInstance update POST');
+    res.send("Thanks for enjoying my application! This page was an 'extra challenge', and so did not implement it as it would have doubled the time for this already long tutorial.");
 };

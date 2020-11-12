@@ -44,7 +44,6 @@ exports.genre_detail = function(req, res, next) {
 };
 
 // Display Genre create form on GET.
-// Display Genre create form on GET.
 exports.genre_create_get = function(req, res, next) {     
     res.render('genre_form', { title: 'Create Genre' });
 };
@@ -100,20 +99,20 @@ exports.genre_create_post =  [
 
 // Display Genre delete form on GET.
 exports.genre_delete_get = function(req, res) {
-    res.send('NOT IMPLEMENTED: Genre delete GET');
+    res.send("Thanks for enjoying my application! This page was an 'extra challenge', and so did not implement it as it would have doubled the time for this already long tutorial.");
 };
 
 // Handle Genre delete on POST.
 exports.genre_delete_post = function(req, res) {
-    res.send('NOT IMPLEMENTED: Genre delete POST');
+    res.send("Thanks for enjoying my application! This page was an 'extra challenge', and so did not implement it as it would have doubled the time for this already long tutorial.");
 };
 
 // Display Genre update form on GET.
 exports.genre_update_get = function(req, res) {
-    res.send('NOT IMPLEMENTED: Genre update GET');
+    res.send("Thanks for enjoying my application! This page was an 'extra challenge', and so did not implement it as it would have doubled the time for this already long tutorial.");
 };
 
 // Handle Genre update on POST.
 exports.genre_update_post = function(req, res) {
-    res.send('NOT IMPLEMENTED: Genre update POST');
+    res.send("Thanks for enjoying my application! This page was an 'extra challenge', and so did not implement it as it would have doubled the time for this already long tutorial.");
 };
